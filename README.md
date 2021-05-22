@@ -34,7 +34,7 @@ Once this search is rendered it will generate the following results:
 
 ## Summary
 
-- We successfully created a page that aesthetically displays our data while also doing so in a user-friendly way through easy and simple filters. As with any project, there are drawbacks that we came across process, one can be that we can have filters that are more useful to browse the data, like perhaps an option to select from different shapes or if there are specific locations that have more than one sighting. 
+We successfully created a page that aesthetically displays our data while also doing so in a user-friendly way through easy and simple filters. As with any project, there are drawbacks that we came across process, one can be that we can have filters that are more useful to browse the data, like perhaps an option to select from different shapes or if there are specific locations that have more than one sighting. 
 
 In order to improve this webpage, there needs to be more data that provides more detail to each event so that it's more information to be displayed and to better organize the results in a more meaningful way than just displaying individual events. In addition to that, an option to upload media, like images, can lead to the creation of a very reliable database for UFO sightings.
 
