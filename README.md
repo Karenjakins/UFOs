@@ -8,7 +8,7 @@ The purpose of this project was to build a webpage using HTML and JS where we ca
 
 Below is a screenshot of our webpage, once the project was completed. 
 
-![alt text](url "Name")
+![alt text](https://github.com/Karenjakins/UFOs/blob/main/images/Homepage.png "Homepage")
 
 The page is clean, and organized in a user-friendly way, that allows filtering the data of the UFO sightings based on: 
 
@@ -30,7 +30,7 @@ Simply by pressing **'enter'**  after entering the specific filters needed the 
 
 Once this search is rendered it will generate the following results:
 
-![alt text](url "Name")
+![alt text](https://github.com/Karenjakins/UFOs/blob/main/images/Filtered%20search.png "Filtered Search")
 
 ## Summary
 
